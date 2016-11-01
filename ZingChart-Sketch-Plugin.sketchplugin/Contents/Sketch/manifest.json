@@ -1,0 +1,17 @@
+{
+    "name" : "ZingChart-Sketch-Plugin",
+    "identifier" : "",
+    "version" : "1.0",
+    "description" : "Generates charts for Sketch",
+    "authorEmail" : "tmartin@pint.com",
+    "author" : "Tessa Martin",
+    "commands" : [
+    {
+      "script" : "zingchart-sketch-plugin.js",
+      "handler" : "onRun",
+      "shortcut" : "",
+      "name" : "ZingChart-Sketch-Plugin",
+      "identifier" : "ZingChart-Sketch-Plugin"
+    }
+  ]
+}
